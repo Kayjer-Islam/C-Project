@@ -1,0 +1,114 @@
+C:\Users\Kayjer\source\repos\GadgetBD\GadgetBD\bin\Debug\GadgetBD.exe.config
+C:\Users\Kayjer\source\repos\GadgetBD\GadgetBD\bin\Debug\GadgetBD.exe
+C:\Users\Kayjer\source\repos\GadgetBD\GadgetBD\bin\Debug\GadgetBD.pdb
+C:\Users\Kayjer\source\repos\GadgetBD\GadgetBD\obj\Debug\GadgetBD.csproj.AssemblyReference.cache
+C:\Users\Kayjer\source\repos\GadgetBD\GadgetBD\obj\Debug\GadgetBD.Form1.resources
+C:\Users\Kayjer\source\repos\GadgetBD\GadgetBD\obj\Debug\GadgetBD.Properties.Resources.resources
+C:\Users\Kayjer\source\repos\GadgetBD\GadgetBD\obj\Debug\GadgetBD.csproj.GenerateResource.cache
+C:\Users\Kayjer\source\repos\GadgetBD\GadgetBD\obj\Debug\GadgetBD.csproj.CoreCompileInputs.cache
+C:\Users\Kayjer\source\repos\GadgetBD\GadgetBD\obj\Debug\GadgetBD.exe
+C:\Users\Kayjer\source\repos\GadgetBD\GadgetBD\obj\Debug\GadgetBD.pdb
+C:\Users\Kayjer\source\repos\GadgetBD\GadgetBD\obj\Debug\GadgetBD.Signup.resources
+C:\Users\Kayjer\source\repos\GadgetBD\GadgetBD\obj\Debug\GadgetBD.AdminlogIn.resources
+C:\Users\Kayjer\source\repos\GadgetBD\GadgetBD\obj\Debug\GadgetBD.AdminDashboard.resources
+C:\Users\USER\Downloads\GadgetBD - Copy\GadgetBD\bin\Debug\GadgetBD.exe.config
+C:\Users\USER\Downloads\GadgetBD - Copy\GadgetBD\bin\Debug\GadgetBD.exe
+C:\Users\USER\Downloads\GadgetBD - Copy\GadgetBD\bin\Debug\GadgetBD.pdb
+C:\Users\USER\Downloads\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.AdminDashboard.resources
+C:\Users\USER\Downloads\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.AdminlogIn.resources
+C:\Users\USER\Downloads\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.Form1.resources
+C:\Users\USER\Downloads\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.Properties.Resources.resources
+C:\Users\USER\Downloads\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.Signup.resources
+C:\Users\USER\Downloads\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.exe
+C:\Users\USER\Downloads\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.pdb
+D:\GadgetBD - Copy\GadgetBD\bin\Debug\GadgetBD.exe.config
+D:\GadgetBD - Copy\GadgetBD\bin\Debug\GadgetBD.exe
+D:\GadgetBD - Copy\GadgetBD\bin\Debug\GadgetBD.pdb
+D:\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.csproj.AssemblyReference.cache
+D:\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.AdminDashboard.resources
+D:\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.AdminlogIn.resources
+D:\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.Form1.resources
+D:\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.Properties.Resources.resources
+D:\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.Signup.resources
+D:\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.csproj.GenerateResource.cache
+D:\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.csproj.CoreCompileInputs.cache
+D:\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.exe
+D:\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.pdb
+D:\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.user_dashboard.resources
+D:\c# project\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.csproj.AssemblyReference.cache
+D:\c# project\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.AdminlogIn.resources
+D:\c# project\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.Form1.resources
+D:\c# project\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.Properties.Resources.resources
+D:\c# project\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.Signup.resources
+D:\c# project\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.user_dashboard.resources
+D:\c# project\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.csproj.GenerateResource.cache
+D:\c# project\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.csproj.CoreCompileInputs.cache
+D:\c# project\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.exe
+D:\c# project\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.pdb
+D:\c# project\GadgetBD - Copy\GadgetBD\bin\Debug\GadgetBD.exe.config
+D:\c# project\GadgetBD - Copy\GadgetBD\bin\Debug\GadgetBD.exe
+D:\c# project\GadgetBD - Copy\GadgetBD\bin\Debug\GadgetBD.pdb
+D:\c# project\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.AdminDashboard.resources
+C:\Users\Kayjer\Desktop\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.csproj.AssemblyReference.cache
+C:\Users\Kayjer\Desktop\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.AdminlogIn.resources
+C:\Users\Kayjer\Desktop\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.Form1.resources
+C:\Users\Kayjer\Desktop\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.Properties.Resources.resources
+C:\Users\Kayjer\Desktop\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.Signup.resources
+C:\Users\Kayjer\Desktop\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.user_dashboard.resources
+C:\Users\Kayjer\Desktop\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.csproj.GenerateResource.cache
+C:\Users\Kayjer\Desktop\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.csproj.CoreCompileInputs.cache
+C:\Users\Kayjer\Desktop\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.exe
+C:\Users\Kayjer\Desktop\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.pdb
+C:\Users\Kayjer\Desktop\GadgetBD - Copy\GadgetBD\bin\Debug\GadgetBD.exe.config
+C:\Users\Kayjer\Desktop\GadgetBD - Copy\GadgetBD\bin\Debug\GadgetBD.exe
+C:\Users\Kayjer\Desktop\GadgetBD - Copy\GadgetBD\bin\Debug\GadgetBD.pdb
+C:\Users\Kayjer\Desktop\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.AdminDashboard.resources
+C:\Users\Kayjer\Desktop\GadgetBD - Copy 1\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.csproj.AssemblyReference.cache
+C:\Users\Kayjer\Desktop\GadgetBD - Copy 1\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.AdminlogIn.resources
+C:\Users\Kayjer\Desktop\GadgetBD - Copy 1\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.Form1.resources
+C:\Users\Kayjer\Desktop\GadgetBD - Copy 1\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.AdminDashboard.resources
+C:\Users\Kayjer\Desktop\GadgetBD - Copy 1\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.Properties.Resources.resources
+C:\Users\Kayjer\Desktop\GadgetBD - Copy 1\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.Signup.resources
+C:\Users\Kayjer\Desktop\GadgetBD - Copy 1\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.user_dashboard.resources
+C:\Users\Kayjer\Desktop\GadgetBD - Copy 1\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.csproj.GenerateResource.cache
+C:\Users\Kayjer\Desktop\GadgetBD - Copy 1\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.csproj.CoreCompileInputs.cache
+C:\Users\Kayjer\Desktop\GadgetBD - Copy 1\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.exe
+C:\Users\Kayjer\Desktop\GadgetBD - Copy 1\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.pdb
+C:\Users\Kayjer\Desktop\GadgetBD - Copy 1\GadgetBD - Copy\GadgetBD\bin\Debug\GadgetBD.exe.config
+C:\Users\Kayjer\Desktop\GadgetBD - Copy 1\GadgetBD - Copy\GadgetBD\bin\Debug\GadgetBD.exe
+C:\Users\Kayjer\Desktop\GadgetBD - Copy 1\GadgetBD - Copy\GadgetBD\bin\Debug\GadgetBD.pdb
+C:\Users\Kayjer\Desktop\GadgetBD - Copy 1 - Copy\GadgetBD - Copy\GadgetBD\bin\Debug\GadgetBD.exe.config
+C:\Users\Kayjer\Desktop\GadgetBD - Copy 1 - Copy\GadgetBD - Copy\GadgetBD\bin\Debug\GadgetBD.exe
+C:\Users\Kayjer\Desktop\GadgetBD - Copy 1 - Copy\GadgetBD - Copy\GadgetBD\bin\Debug\GadgetBD.pdb
+C:\Users\Kayjer\Desktop\GadgetBD - Copy 1 - Copy\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.AdminlogIn.resources
+C:\Users\Kayjer\Desktop\GadgetBD - Copy 1 - Copy\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.Form1.resources
+C:\Users\Kayjer\Desktop\GadgetBD - Copy 1 - Copy\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.AdminDashboard.resources
+C:\Users\Kayjer\Desktop\GadgetBD - Copy 1 - Copy\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.user_dashboard.resources
+C:\Users\Kayjer\Desktop\GadgetBD - Copy 1 - Copy\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.Properties.Resources.resources
+C:\Users\Kayjer\Desktop\GadgetBD - Copy 1 - Copy\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.Signup.resources
+C:\Users\Kayjer\Desktop\GadgetBD - Copy 1 - Copy\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.csproj.GenerateResource.cache
+C:\Users\Kayjer\Desktop\GadgetBD - Copy 1 - Copy\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.csproj.CoreCompileInputs.cache
+C:\Users\Kayjer\Desktop\GadgetBD - Copy 1 - Copy\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.exe
+C:\Users\Kayjer\Desktop\GadgetBD - Copy 1 - Copy\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.pdb
+C:\Users\Kayjer\Desktop\GadgetBD - Copy 1 - Copy\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.OrderForm.resources
+C:\Users\Kayjer\Desktop\GadgetBD - Copy 1 - Copy\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.PaymentForm.resources
+C:\Users\Kayjer\Desktop\GadgetBD - Copy 1 - Copy\GadgetBD - Copy\GadgetBD\obj\Debug\GadgetBD.csproj.AssemblyReference.cache
+D:\c# project\GadgetBD\GadgetBD\GadgetBD\bin\Debug\GadgetBD.exe.config
+D:\c# project\GadgetBD\GadgetBD\GadgetBD\bin\Debug\GadgetBD.exe
+D:\c# project\GadgetBD\GadgetBD\GadgetBD\bin\Debug\GadgetBD.pdb
+D:\c# project\GadgetBD\GadgetBD\GadgetBD\obj\Debug\GadgetBD.csproj.AssemblyReference.cache
+D:\c# project\GadgetBD\GadgetBD\GadgetBD\obj\Debug\GadgetBD.AdminlogIn.resources
+D:\c# project\GadgetBD\GadgetBD\GadgetBD\obj\Debug\GadgetBD.Form1.resources
+D:\c# project\GadgetBD\GadgetBD\GadgetBD\obj\Debug\GadgetBD.AdminDashboard.resources
+D:\c# project\GadgetBD\GadgetBD\GadgetBD\obj\Debug\GadgetBD.user_dashboard.resources
+D:\c# project\GadgetBD\GadgetBD\GadgetBD\obj\Debug\GadgetBD.OrderForm.resources
+D:\c# project\GadgetBD\GadgetBD\GadgetBD\obj\Debug\GadgetBD.PaymentForm.resources
+D:\c# project\GadgetBD\GadgetBD\GadgetBD\obj\Debug\GadgetBD.Properties.Resources.resources
+D:\c# project\GadgetBD\GadgetBD\GadgetBD\obj\Debug\GadgetBD.Signup.resources
+D:\c# project\GadgetBD\GadgetBD\GadgetBD\obj\Debug\GadgetBD.csproj.GenerateResource.cache
+D:\c# project\GadgetBD\GadgetBD\GadgetBD\obj\Debug\GadgetBD.csproj.CoreCompileInputs.cache
+D:\c# project\GadgetBD\GadgetBD\GadgetBD\obj\Debug\GadgetBD.exe
+D:\c# project\GadgetBD\GadgetBD\GadgetBD\obj\Debug\GadgetBD.pdb
